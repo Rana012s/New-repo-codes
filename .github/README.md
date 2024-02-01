@@ -2,7 +2,7 @@
 ### 🌷𝐕ɪsɪᴛᴏʀs🌷
 
 <!--
-**TeamAloneOp/AloneXMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rana012s/New-repo-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -19,17 +19,17 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXMusic?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/TeamAloneOp/AloneXMusic?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/TeamAloneOp/AloneXMusic?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/TeamAloneOp/AloneXMusic?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/TeamAloneOp/AloneXMusic?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TeamAloneOp/AloneXMusic&amp;title=Repo%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/Rana012s/New-repo-codes?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/Rana012s/New-repo-codes?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/Rana012s/New-repo-codes?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/Rana012s/New-repo-codes?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/Rana012s/New-repo-codes?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/Rana012s/New-repo-codes?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rana012s/New-repo-codes&amp;title=Repo%20Views" alt="Views">
 </p>
 
 <p align='center'>
-  <a href="https://t.me/moonlight_musicRobot" alt="Made-By-DEVELOPER_K4K4SHI"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/Ranamusicxbot" alt="Made-By-RANA_YOUR_FATHER"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗟𝗢𝗡𝗘+🎭">
@@ -37,7 +37,7 @@
   <img src="https://te.legra.ph/file/265e29bc52c7a32b67081.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗔𝗟𝗢𝗡𝗘🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/AloneXMusicbot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗔𝗟𝗢𝗡𝗘🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/Ranamusicxbot)**
 
 
 
@@ -50,7 +50,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/MOON-CODES/New-repo)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/Rana012s/New-repo-codes)
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
@@ -65,7 +65,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TeamAloneOp/AloneXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Rana012s/New-repo-codes/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -77,7 +77,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/TeamAloneOp/AloneXMusic && cd AloneXMusic`
+`git clone https://github.com/Rana012s/New-repo-codes && cd New-repo-codes`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -98,10 +98,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Apni_SOCIETYX"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AloneXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RANAA_OP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
